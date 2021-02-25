@@ -113,8 +113,11 @@
   - 고객사 문의 대응
   - 시스템 정기점검(데이터 정합성 검사, 변경된 주소지 적용 등)
 
-## 토이 프로젝트
- - 작성중
+## 기타 프로젝트 (작성중)
+ - [간단한 게시판](https://github.com/todak-sun/demo-board-for-study)
+ - [트래블메이커](https://github.com/todak-sun/travelmaker)
+ - [인스타그램 서버 만들어보기](https://github.com/todak-sun/outmoongram)
+   
 
 --- 
 # 보유 자격증
