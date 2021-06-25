@@ -10,6 +10,9 @@
   - Javascript(브라우저 & Node.js) : 마찬가지로 주 언어이며, 실무 및 개인 공부시 가장 자주 사용합니다.
   - HTML, CSS : Symantic 태그의 활용 및 HTML5에서 제공하는 기능을 다수 활용합니다. 원하는 레이아웃을 간단하게 구현할 수 있습니다.
 
+- Cloud-Service
+  - Microsoft-Azure
+
 - Back-End
   - Spring Framework & Spring Boot 2.X (Java)
     - 가장 많이 사용하는 프레임워크로, 실무 및 개인 공부시 가장 많이 활용중입니다.
@@ -113,7 +116,7 @@
   - 고객사 문의 대응
   - 시스템 정기점검(데이터 정합성 검사, 변경된 주소지 적용 등)
 
-## 개임 프로젝트 (작성중)
+## 개인 프로젝트 (작성중)
  - [URL Shortnizer](https://github.com/todak-sun/url-shortener)
  - [간단한 게시판](https://github.com/todak-sun/demo-board-for-study)
  - [트래블메이커](https://github.com/todak-sun/travelmaker)
