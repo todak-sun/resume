@@ -11,6 +11,9 @@
   - Javascript(브라우저 & Node.js) : 마찬가지로 주 언어이며, 실무 및 개인 공부시 가장 자주 사용합니다.
   - HTML, CSS : Symantic 태그의 활용 및 HTML5에서 제공하는 기능을 다수 활용합니다. 원하는 레이아웃을 간단하게 구현할 수 있습니다.
 
+- Cloud-Service
+  - Microsoft-Azure
+
 - Back-End
   - Spring Framework & Spring Boot 2.X (Java)
     - 가장 많이 사용하는 프레임워크로, 실무 및 개인 공부시 가장 많이 활용중입니다.
@@ -28,6 +31,10 @@
     - REST API를 구축할 수 있습니다.
     - Passport.js 활용해 인증/인가 처리할 수 있습니다.
     - Middle-ware를 작성해 공통 작업을 위임할 수 있습니다.
+
+- 쿠버네티스
+  - 쿠버네티스 생태계에 대해 간단히 이해하고 있습니다.
+  - 적합한 오브젝트 스펙을 작성해, 사용 목적에 맞게 배포할 수 있습니다.
 
 - Front-End
    - Vanila-Javascript
@@ -62,6 +69,8 @@
 # 프로젝트 경험
 
 ## 회사에서 진행한 것들
+
+### 선적 추적 서비스 개발
 
 ### 컴퓨터 비전 및 인공지능 학습을 통한 차량인식 솔루션(프로젝트 명 대외비)
 - 설명: 실시간 영상 및 녹화된 영상을 토대로 통행량, 차량 속도 등을 검지하는 인공지능 기반 시스템
@@ -117,7 +126,7 @@
   - 고객사 문의 대응
   - 시스템 정기점검(데이터 정합성 검사, 변경된 주소지 적용 등)
 
-## 개임 프로젝트 (작성중)
+## 개인 프로젝트 (작성중)
  - [URL Shortnizer](https://github.com/todak-sun/url-shortener)
  - [간단한 게시판](https://github.com/todak-sun/demo-board-for-study)
  - [트래블메이커](https://github.com/todak-sun/travelmaker)
