@@ -25,7 +25,7 @@
     - JPA를 활용할 수 있습니다.
   
   - NestJs
-    - 업데이트 예정
+    - REST API 개발
 
   - Express(Node.js)
     - REST API를 구축할 수 있습니다.
